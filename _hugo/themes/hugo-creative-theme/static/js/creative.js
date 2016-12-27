@@ -20,7 +20,7 @@
     $('body').scrollspy({
         target: '.navbar-fixed-top',
         offset: 51
-    })
+    });
 
     // Closes the Responsive Menu on Menu Item Click
     $('.navbar-collapse ul li a').click(function() {
@@ -31,7 +31,7 @@
     $("h1").fitText(
         1.2, {
             minFontSize: '35px',
-            maxFontSize: '65px'
+            maxFontSize: '48px'
         }
     );
 
@@ -40,7 +40,7 @@
         offset: {
             top: 100
         }
-    })
+    });
 
     // Initialize WOW.js Scrolling Animations
     new WOW().init();

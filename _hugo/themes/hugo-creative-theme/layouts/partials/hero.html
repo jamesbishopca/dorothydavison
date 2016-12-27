@@ -2,6 +2,7 @@
 <header>
     <div class="header-content">
         <div class="header-content-inner">
+            <img src="./img/logo.png" alt="{{ .Site.Title }}" class="header-logo">
             {{ with .Site.Params.hero.slogan }}
                 <h1>{{ . | markdownify  }}</h1>
             {{ end }}

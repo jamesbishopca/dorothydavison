@@ -41,15 +41,15 @@ googleAnalytics = ""
 # Hero section
 [params.hero]
 # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-  slogan     = "Your awesome slogan"
-  subtitle   = "Dorothy Davison is an accredited and certified counsellor based out of her home office in Kentville, Nova Scotia. She has 20 years of experience providing relief to couples, families, and those who are suffering from addiction."
+  slogan     = "Dorothy E. Davison<br /> Counselling Services"
+  subtitle   = "The support you need for a better tomorrow."
   buttonText = "Find out more"
 
 
 # About section
 [params.about]
   headline    = "About Dorothy"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  description = "Dorothy Davison is an accredited and certified counsellor based out of her home office in Kentville, Nova Scotia who has more than 20 years of experience providing relief to couples, families, and people suffering from addiction. Dorothy specializes in working with families who have grown up in homes with overt addiction, and acts as an advocate for those who have been physically, emotionally, sexually, or spiritually abused. She has also attended workshops on gambling and internet addiction, and has been recognized by the Canadian Counselling Association with a pin commemorating 20 years of service."
   buttonText  = "Contact Dorothy"
 
 
@@ -63,9 +63,9 @@ googleAnalytics = ""
   description = "Dorothy Davison has been serving clients for more than 20 years."
 
 [[params.services.list]]
-  icon = "fa-paper-plane"
-  title = "Ready to Ship"
-  description = "You can use this theme as is, or you can make changes!"
+  icon = "fa-user-secret"
+  title = "Privacy"
+  description = "Dorothy's home office is in a quiet, secluded location that offers peace of mind."
 
 [[params.services.list]]
   icon = "fa-usd"

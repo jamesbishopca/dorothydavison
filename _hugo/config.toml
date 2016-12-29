@@ -49,7 +49,7 @@ googleAnalytics = ""
 # About section
 [params.about]
   headline    = "About Dorothy"
-  description = "Dorothy Davison is an accredited and certified counsellor based out of her home office in Kentville, Nova Scotia who has more than 20 years of experience providing relief to couples, families, and people suffering from addiction. Dorothy specializes in working with families who have grown up in homes with overt addiction, and acts as an advocate for those who have been physically, emotionally, sexually, or spiritually abused. She has also attended workshops on gambling and internet addiction, and has been recognized by the Canadian Counselling Association with a pin commemorating 20 years of service."
+  description = "Dorothy Davison is an accredited and certified counsellor based out of her home office in Kentville, Nova Scotia who has more than 20 years of experience providing relief to couples, families, and people suffering from addiction. Dorothy specializes in working with families who have grown up in homes with overt addiction, and acts as an advocate for those who have been physically, emotionally, sexually, or mentally abused. She has also attended workshops on gambling and internet addiction, and has been recognized by the Canadian Counselling Association with a pin commemorating 20 years of service."
   buttonText  = "Contact Dorothy"
 
 
@@ -63,7 +63,7 @@ googleAnalytics = ""
   description = "Dorothy Davison has been serving clients for more than 20 years."
 
 [[params.services.list]]
-  icon = "fa-user-secret"
+  icon = "fa-home"
   title = "Privacy"
   description = "Dorothy's home office is in a quiet, secluded location that offers peace of mind."
 

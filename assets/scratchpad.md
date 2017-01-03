@@ -24,3 +24,12 @@ Find the comfort you need in turbulent times.
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5633.6370381719535!2d-64.48755727113469!3d45.089473166393134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b5856e6c556a07f%3A0x619a34eeb6fcdae4!2s875+Charles+St%2C+Kentville%2C+NS+B4N+2Y9!5e0!3m2!1sen!2sca!4v1482879842248" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Services
+--------
+* Group Therapy
+* Journalling
+* Art Therapy
+* Dream Interpretation
+* PTSD Support
+* Active/Relaxation Imagination Technique

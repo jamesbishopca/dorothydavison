@@ -21,7 +21,7 @@ googleAnalytics = ""
 # To provide some metadata for search engines feel free to add some
 # information about you and your website.
   name = "Dorothy E. Davison"
-  description = "Your description"
+  description = "Dorothy Davison is a counselor based out of Kentville, Nova Scotia and offers support to those suffering from addiction, and those who are victims of abuse."
 
 # The path must be relative to the static folder
   favicon = "favicon.ico"
@@ -34,7 +34,7 @@ googleAnalytics = ""
 [params.navigation.links]
   about     = "About"
   services  = "Services"
-  portfolio = "Portfolio"
+  # portfolio = "Portfolio"
   contact   = "Contact"
 
 

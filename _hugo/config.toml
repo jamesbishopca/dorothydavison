@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "http://dorothydavison.com/"
 languageCode = "en-us"
 title = "Dorothy E. Davison Counselling Services"
 theme = "hugo-creative-theme"
@@ -91,7 +91,7 @@ googleAnalytics = ""
 
 [params.aside.button]
   text = "<i class=\"fa fa-linkedin-square\"></i> Dorothy Davison"
-  link = "https://www.linkedin.com/in/dolly-davison-a2049239"
+  link = "https://www.linkedin.com/in/dorothy-davison-a2049239"
 
 # Contact section
 [params.contact]
